@@ -1,4 +1,6 @@
-### Hi there 👋
+### Progress is my happy place. I lead teams, ship code and create success.
+
+![A rough approximation](https://raw.githubusercontent.com/R-A-M/R-A-M/main/toon.png)
 
 <!--
 **R-A-M/R-A-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
