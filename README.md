@@ -3,7 +3,7 @@
 Progress is my happy place. I build teams and ship value. I prefer to code in a suit.
 
 - 💬 Talk to me about hard problems, travel, books and cooking
-- 🔭 I’m currently building the best data platform in the insurance industry
+- 🔨 I’m currently building the best data platform in the insurance industry
 
 ![A rough approximation](https://raw.githubusercontent.com/R-A-M/R-A-M/main/toon.png)
 
