@@ -25,4 +25,4 @@ AWS (certified) · GCP · Azure · Anthropic & OpenAI APIs · MCP servers · n8n
 - 💬 Talk to me about hard problems, travel, books, and cooking
 - 📫 rafael@dataminded.net · [LinkedIn](https://linkedin.com/in/rmejia)
 
-![A rough approximation](https://raw.githubusercontent.com/R-A-M/R-A-M/main/toon.png)
+![A rough approximation](https://raw.githubusercontent.com/R-A-M/R-A-M/main/avatar_transparent.png)
